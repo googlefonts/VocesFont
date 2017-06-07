@@ -30,6 +30,10 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2012-02-10 16:59:45 +0000";
